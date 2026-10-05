@@ -29,18 +29,6 @@ La aplicación permite:
 - Verificar el estado final de los pedidos al finalizar la simulación.
 - Mantener los datos almacenados después de cerrar y volver a abrir la aplicación.
 
-## Tecnologías utilizadas
-
-- Java 21
-- Java Swing
-- MySQL
-- JDBC
-- MySQL Connector/J
-- Programación orientada a objetos
-- Threads
-- ExecutorService
-- NetBeans
-
 ## Estructura del proyecto
 
 ```text
@@ -337,7 +325,3 @@ Entre las validaciones implementadas se encuentran:
 - Confirmación antes de eliminar registros.
 
 Los resultados de las operaciones se informan mediante `JOptionPane` y los errores SQL son manejados en las clases DAO.
-
-## Autor
-
-Proyecto académico desarrollado para la asignatura Desarrollo Orientado a Objetos II.
